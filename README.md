@@ -1,2 +1,2 @@
 # leetcode-kumo
-iOS app to track leetcode streaks with friends :)
+Swift app to track leetcode streaks with friends :)
